@@ -1,0 +1,3 @@
+Simple 555 timer circuit in combination with a MOSFET to drive a solanoid.
+Additionally an amplifier circuit is added to use it in combination with a contact microphone.
+Based on common 555 & TL072 single power supply circuits.
